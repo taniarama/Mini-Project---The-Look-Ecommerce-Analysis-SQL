@@ -13,7 +13,7 @@ dataset publik bigquery-public-data.thelook_ecommerce di Google BigQuery. Tabel 
 ### Identifikasi Produk Premium
 
 ### Evaluasi Kategori Produk
-![Pertanyaan 1](Picture/Kategori per Jumlah Produk.png)
+![Pertanyaan 1](Picture/KategoriProd.png)
 ### Mengenal Pelanggan dan Pemesanan
 
 ### Analisis Penjualan Per Kategori
